@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
-        <active>true</active>
+        <active>truer</active>
         <api_name>x_snc_cftest.CFscript</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
