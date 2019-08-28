@@ -13,7 +13,7 @@ CFscript.prototype = {
 		
 		var helloworldly = "cf was here before";
 		var helloagain = "developer2 changing code";
-		//here
+		//here now
     },
 
     type: 'CFscript'
