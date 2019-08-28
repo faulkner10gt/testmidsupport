@@ -2,7 +2,7 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-	  
+	  <3432oijoij!>
         <api_name>x_snc_cftest.CFscript</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
